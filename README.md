@@ -51,6 +51,9 @@ This example shows how to use the HuskyLens sensor to detect faces and control a
 ### LED Control Demo
 - **Demo:** ![LED Control](https://github.com/shathalshehri/Huskylens/blob/main/HuskylensWithArduino.gif)
 
+### Additional Resources
+- **HuskyLens Library Download and Documentation:** [HuskyLens Wiki](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336#target_0)
+
 ### Notes
 - Ensure the HuskyLens is set to I2C protocol mode.
 - Verify the connections between the HuskyLens and Arduino.
