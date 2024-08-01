@@ -28,6 +28,9 @@ This example shows how to use the HuskyLens sensor to detect faces and control a
 
 - **Code File:** [HUSKYLENS_I2C.ino](https://github.com/shathalshehri/Huskylens/blob/main/HUSKYLENS_I2C.ino)
 
+### LED Control Demo
+- **Demo:** ![LED Control](https://github.com/shathalshehri/Huskylens/blob/main/HuskylensWithArduino.gif)
+
 ### Notes
 - Ensure the HuskyLens is set to I2C protocol mode.
 - Verify the connections between the HuskyLens and Arduino.
