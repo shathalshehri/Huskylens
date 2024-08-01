@@ -23,6 +23,26 @@ This repository demonstrates the use of the HuskyLens AI machine vision sensor f
 ## Arduino Code for LED Control Based on Face Detection
 
 This example shows how to use the HuskyLens sensor to detect faces and control an LED with Arduino. When a face is detected, the LED will turn on.
+### Steps to Download the HuskyLens Library on macOS
+
+1. **Open the Arduino IDE:**
+   Launch the Arduino IDE on your macOS system.
+
+2. **Open Library Manager:**
+   - Go to `Sketch` > `Include Library` > `Manage Libraries...`
+
+3. **Search for HuskyLens Library:**
+   - In the Library Manager window, type "HuskyLens" in the search bar.
+
+4. **Install the Library:**
+   - Find the "HuskyLens" library in the search results.
+   - Click on the "Install" button next to the library entry.
+
+5. **Close the Library Manager:**
+   - Once the installation is complete, close the Library Manager.
+
+6. **Include the Library in Your Sketch:**
+   - Add `#include "HUSKYLENS.h"` to the top of your Arduino sketch to include the HuskyLens library.
 
 ### Code
 
