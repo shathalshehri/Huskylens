@@ -5,10 +5,12 @@ This repository demonstrates the use of the HuskyLens AI machine vision sensor f
 ## HuskyLens Functions
 
 ### Face Detection
-- **Demo:** ![Face Detection](https://github.com/shathalshehri/Huskylens/blob/main/IMG_4061-ezgif.com-video-to-gif-converter.gif)
+- **Demo:**
+   ![Face Detection](https://github.com/shathalshehri/Huskylens/blob/main/IMG_4061-ezgif.com-video-to-gif-converter.gif)
 
 ### Line Tracking
-- **Image:** ![Line Tracking](https://github.com/shathalshehri/Huskylens/blob/main/IMG_4095.jpeg)
+- **Image:**
+   ![Line Tracking](https://github.com/shathalshehri/Huskylens/blob/main/IMG_4095.jpeg)
 
 ### Object Detection
 - **Images:**
