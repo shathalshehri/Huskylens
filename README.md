@@ -3,6 +3,16 @@
 This repository demonstrates the use of the HuskyLens AI machine vision sensor for various functions, including face detection, line tracking, and object detection. Additionally, it includes an example of how to control an LED based on face detection results using Arduino.
 
 ## HuskyLens Functions
+This repository demonstrates the capabilities of the HuskyLens AI machine vision sensor, showcasing various functionalities including:
+
+**1. Face Detection:** Identifies human faces and provides coordinates.
+**2. Object Tracking:** Tracks moving objects based on color or shape.
+**3. Object Recognition:** Recognizes and identifies specific objects from a set of predefined objects.
+**4. Line Tracking:** Follows lines on a surface using visual sensors.
+**5. Color Recognition:** Recognizes and identifies colors in the camera's field of view.
+**6. Tag Detection:** Detects and identifies tags or markers from a set of predefined tags.
+**7. Object Classification:** Classifies objects into different categories based on predefined classes.
+
 
 ### Face Detection
 - **Demo:**
