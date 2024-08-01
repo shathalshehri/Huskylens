@@ -6,16 +6,16 @@ This repository demonstrates the use of the HuskyLens AI machine vision sensor f
 
 ### Face Detection
 - **Demo:**
-   ![Face Detection](https://github.com/shathalshehri/Huskylens/blob/main/IMG_4061-ezgif.com-video-to-gif-converter.gif)
+   ![Face Detection](https://github.com/shathalshehri/Huskylens/blob/main/facedetection.gif)
 
 ### Line Tracking
 - **Image:**
-   ![Line Tracking](https://github.com/shathalshehri/Huskylens/blob/main/IMG_4095.jpeg)
+   ![Line Tracking](https://github.com/shathalshehri/Huskylens/blob/main/linetracking.jpeg)
 
 ### Object Detection
 - **Images:**
-  - ![Object Detection 1](https://github.com/shathalshehri/Huskylens/blob/main/Screenshot%201446-01-25%20at%201.54.09%E2%80%AFAM.png)
-  - ![Object Detection 2](https://github.com/shathalshehri/Huskylens/blob/main/IMG_4062.jpeg)
+  - ![Object Detection 1](https://github.com/shathalshehri/Huskylens/blob/main/objectdetection.jpeg)
+  - ![Object Detection 2](https://github.com/shathalshehri/Huskylens/blob/main/objectdeetection2.png)
 
 ### Tag Detection
 - **Demo:** ![Tag Detection](https://github.com/shathalshehri/Huskylens/blob/main/tagdetection.gif)
