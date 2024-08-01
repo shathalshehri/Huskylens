@@ -17,6 +17,9 @@ This repository demonstrates the use of the HuskyLens AI machine vision sensor f
   - ![Object Detection 1](https://github.com/shathalshehri/Huskylens/blob/main/Screenshot%201446-01-25%20at%201.54.09%E2%80%AFAM.png)
   - ![Object Detection 2](https://github.com/shathalshehri/Huskylens/blob/main/IMG_4062.jpeg)
 
+### Tag Detection
+- **Demo:** ![Tag Detection](https://github.com/shathalshehri/Huskylens/blob/main/tagdetection.gif)
+
 ## Arduino Code for LED Control Based on Face Detection
 
 This example shows how to use the HuskyLens sensor to detect faces and control an LED with Arduino. When a face is detected, the LED will turn on.
