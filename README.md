@@ -1,4 +1,5 @@
-# Huskylens
+# HuskyLens Functions and LED Control
+
 This repository demonstrates the use of the HuskyLens AI machine vision sensor for various functions, including face detection, line tracking, and object detection. Additionally, it includes an example of how to control an LED based on face detection results using Arduino.
 
 ## HuskyLens Functions
@@ -17,3 +18,15 @@ This repository demonstrates the use of the HuskyLens AI machine vision sensor f
 ## Arduino Code for LED Control Based on Face Detection
 
 This example shows how to use the HuskyLens sensor to detect faces and control an LED with Arduino. When a face is detected, the LED will turn on.
+
+### Code
+
+- **Code File:** [HUSKYLENS_I2C.ino](https://github.com/shathalshehri/Huskylens/blob/main/HUSKYLENS_I2C.ino)
+
+### Notes
+- Ensure the HuskyLens is set to I2C protocol mode.
+- Verify the connections between the HuskyLens and Arduino.
+
+## License
+
+This project is licensed under the GNU Lesser General Public License. See [LICENSE](LICENSE) for details.
